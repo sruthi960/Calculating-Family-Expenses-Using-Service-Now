@@ -33,10 +33,7 @@ A collection of demonstration videos from individual team members showcasing spe
 # 🏆 Certifications
 IBM_ChatBot_Certificates/
 Showcases the team's technical competency. Contains IBM ChatBot development certificates for:
-Kedarinadh saiharsha Gadu
 Sudarsanam Sri Lakshmi Sruthi
-Dommeti Trivek
-Devagupthapu Srinu
 # 🚀 How to Use
 To explore the contents of this project:
 
@@ -51,7 +48,5 @@ Review Logic:
 Check the Project Files/ folder to see snapshots of the Business Rules and Relationships implemented within ServiceNow.
 # 👥 Contributors
 This project was designed, developed, and documented by:
-Kedarinadh saiharsha Gadu
 Sudarsanam Sri Lakshmi Sruthi
-Dommeti Trivek
-Devagupthapu Srinu
+
